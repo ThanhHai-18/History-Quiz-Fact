@@ -1,0 +1,13 @@
+.header-history-main {
+    background-image: url("https://i.pinimg.com/originals/a8/98/15/a89815b2077dcba889e82e6116e923b6.png");
+    height: 70px;
+    border-bottom: 1px solid #f5f5f5;
+}
+.footer-history-main{
+    background-image: url("https://i.pinimg.com/originals/a8/98/15/a89815b2077dcba889e82e6116e923b6.png");
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 1%;
+    height: 57px;
+    border-top: 1px solid #f5f5f5;
+}

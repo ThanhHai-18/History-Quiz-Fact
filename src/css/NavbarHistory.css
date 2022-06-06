@@ -1,0 +1,15 @@
+.navbar-history {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-dangnhap, .form-dangky {
+    background-image: url("https://i.pinimg.com/originals/a8/98/15/a89815b2077dcba889e82e6116e923b6.png");
+}
+.error-password, .error-name{
+    color: red;
+}
+.text {
+    margin-bottom: 15px;
+}

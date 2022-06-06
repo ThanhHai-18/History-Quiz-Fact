@@ -1,0 +1,14 @@
+.meme-question-test{
+    background-color: #ddc381;
+    padding-top: 2%;
+}
+
+.img-questiontest {
+    height: 400px;
+    width: 350px;
+    border: 1px solid #222;
+    border-radius: 20px;
+}
+.thongtin-question {
+    padding-left: 15%;
+}
